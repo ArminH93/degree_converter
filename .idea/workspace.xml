@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34c362f0-5bcc-4958-b809-b61f7fef0969" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/degree_converter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +15,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="ybNfuPGx" />
@@ -32,7 +30,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../the_guessing_game" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
   </component>
   <component name="RunManager">
@@ -57,6 +55,7 @@
   </component>
   <component name="RustProjectSettings">
     <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -83,26 +82,55 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="3969" y="139" width="1035" height="1085" key="DiffContextDialog" timestamp="1577298844498">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3969" y="139" width="1035" height="1085" key="DiffContextDialog/2560.0.2560.1440/0.30.2560.1410@2560.0.2560.1440" timestamp="1577298844498" />
+    <state x="4269" y="439" width="424" height="490" key="FileChooserDialogImpl" timestamp="1577359122827">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="4269" y="439" width="424" height="490" key="FileChooserDialogImpl/2560.0.2560.1440/0.30.2560.1410@2560.0.2560.1440" timestamp="1577359122827" />
     <state x="4185" y="504" width="612" height="404" key="Github.ShareDialog" timestamp="1577286585634">
       <screen x="2560" y="0" width="2560" height="1440" />
     </state>
     <state x="4185" y="504" width="612" height="404" key="Github.ShareDialog/2560.0.2560.1440/0.30.2560.1410@2560.0.2560.1440" timestamp="1577286585634" />
-    <state width="1185" height="268" key="GridCell.Tab.0.bottom" timestamp="1577285276466">
+    <state x="4236" y="302" width="490" height="764" key="Github.UntrackedFilesDialog" timestamp="1577286613728">
       <screen x="2560" y="0" width="2560" height="1440" />
     </state>
-    <state width="1185" height="268" key="GridCell.Tab.0.bottom/2560.0.2560.1440/0.30.2560.1410@2560.0.2560.1440" timestamp="1577285276466" />
-    <state width="1185" height="268" key="GridCell.Tab.0.center" timestamp="1577285276466">
+    <state x="4236" y="302" width="490" height="764" key="Github.UntrackedFilesDialog/2560.0.2560.1440/0.30.2560.1410@2560.0.2560.1440" timestamp="1577286613728" />
+    <state width="1185" height="268" key="GridCell.Tab.0.bottom" timestamp="1577298586301">
       <screen x="2560" y="0" width="2560" height="1440" />
     </state>
-    <state width="1185" height="268" key="GridCell.Tab.0.center/2560.0.2560.1440/0.30.2560.1410@2560.0.2560.1440" timestamp="1577285276466" />
-    <state width="1185" height="268" key="GridCell.Tab.0.left" timestamp="1577285276466">
+    <state width="1185" height="268" key="GridCell.Tab.0.bottom/2560.0.2560.1440/0.30.2560.1410@2560.0.2560.1440" timestamp="1577298586301" />
+    <state width="1185" height="268" key="GridCell.Tab.0.center" timestamp="1577298586301">
       <screen x="2560" y="0" width="2560" height="1440" />
     </state>
-    <state width="1185" height="268" key="GridCell.Tab.0.left/2560.0.2560.1440/0.30.2560.1410@2560.0.2560.1440" timestamp="1577285276466" />
-    <state width="1185" height="268" key="GridCell.Tab.0.right" timestamp="1577285276466">
+    <state width="1185" height="268" key="GridCell.Tab.0.center/2560.0.2560.1440/0.30.2560.1410@2560.0.2560.1440" timestamp="1577298586301" />
+    <state width="1185" height="268" key="GridCell.Tab.0.left" timestamp="1577298586301">
       <screen x="2560" y="0" width="2560" height="1440" />
     </state>
-    <state width="1185" height="268" key="GridCell.Tab.0.right/2560.0.2560.1440/0.30.2560.1410@2560.0.2560.1440" timestamp="1577285276466" />
+    <state width="1185" height="268" key="GridCell.Tab.0.left/2560.0.2560.1440/0.30.2560.1410@2560.0.2560.1440" timestamp="1577298586301" />
+    <state width="1185" height="268" key="GridCell.Tab.0.right" timestamp="1577298586301">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1185" height="268" key="GridCell.Tab.0.right/2560.0.2560.1440/0.30.2560.1410@2560.0.2560.1440" timestamp="1577298586301" />
+    <state x="4251" y="595" width="460" height="178" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577621873159">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="4251" y="595" width="460" height="178" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/2560.0.2560.1440/0.30.2560.1410@2560.0.2560.1440" timestamp="1577621873159" />
   </component>
 </project>

@@ -17,8 +17,8 @@ fn main() {
             }
         };
 
-        let deg_celsius = (user_input - 32 as f32) * 5 as f32 / 9 as f32;
-        println!("{}°F is {}°C", user_input, deg_celsius);
+        let deg_celsius = (user_input - 32_f32) * 5_f32 / 9_f32;
+        println!("{}°F is {}°C", user_input, deg_celsius.round());
         break;
     }
 }
